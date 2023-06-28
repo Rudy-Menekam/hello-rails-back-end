@@ -22,7 +22,7 @@
 
 Testing React on Rails [BACKEND] (two applications)
 
-[Frontend part]()
+[Frontend part](https://github.com/Rudy-Menekam/hello-rails-front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
